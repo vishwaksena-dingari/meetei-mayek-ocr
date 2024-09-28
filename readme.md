@@ -1,6 +1,5 @@
 # A Printed Character Recognition System for Meetei-Mayek Script Using Transfer Learning
 [![Springer Link](https://img.shields.io/badge/Springer-Link-blue)](https://doi.org/10.1007/978-981-99-4713-3_50)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 👥 Authors
 
